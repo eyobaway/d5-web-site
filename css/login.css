@@ -1,0 +1,12 @@
+/* Styles for the login page */
+
+#login-wrapper {
+	padding: 100px 0;
+	background-color: #fff;
+}
+
+#two-wrapper {
+	/*max-height: 800px;*/
+	overflow: hidden;
+	background: #000;
+}

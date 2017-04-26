@@ -1,0 +1,12 @@
+/* Styles for the register page */
+
+#register-wrapper {
+	padding: 50px 0;
+	background-color: #fff;
+}
+
+#two-wrapper {
+	/*max-height: 800px;*/
+	overflow: hidden;
+	background: #000;
+}

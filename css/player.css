@@ -1,0 +1,16 @@
+#player-wrapper {
+	background-color: #fff;
+	padding: 40px 0;
+}
+
+#pro-pic {
+	width: 200px;
+	height: auto;
+	border-radius: 5px;
+}
+
+#two-wrapper {
+	/*max-height: 800px;*/
+	overflow: hidden;
+	background: #000;
+}
